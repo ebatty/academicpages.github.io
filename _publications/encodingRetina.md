@@ -2,7 +2,7 @@
 title: "Multilayer recurrent network models of primate retinal ganglion cell responses"
 collection: publications
 permalink: /publication/encodingRetina
-%excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is about creating encoding models of retinal ganglion cells using RNNs'
 date: 2017-04-01
 venue: 'ICLR'
 paperurl: 'https://openreview.net/forum?id=HkEI22jeg'
