@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Eleanor Batty / Site Title"
+title                    : "Eleanor Batty"
 title_separator          : "-"
 name                     : &name "Eleanor Batty"
 description              : &description "PhD Student at Columbia"
