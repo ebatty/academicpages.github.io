@@ -3,7 +3,7 @@
 title: "Neural networks for efficient Bayesian decoding of natural images from retinal neurons"
 collection: publications
 permalink: /publication/decodingRetina
-excerpt: 'For talk covering some of this work, see https://www.youtube.com/watch?v=7OzdyDG6pbM'
+excerpt: ''
 date: 2017-06-01
 venue: 'Biorxiv'
 paperurl: 'https://www.biorxiv.org/content/early/2017/08/02/153759'
