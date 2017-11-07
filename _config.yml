@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Eleanor Batty"
-  avatar           : #"profile.png"
+  avatar           : "profile.jpg"
   bio              : "PhD Student interested in neuroscience and machine learning"
   location         : "New York"
   employer         : "Columbia University"
