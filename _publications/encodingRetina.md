@@ -15,4 +15,4 @@ citation: 'Batty, E. Merel, J., Brackbill, N., Heitman, A., Sher, A., Litke, A.,
 
 %[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Batty, E. Merel, J., Brackbill, N., Heitman, A., Sher, A., Litke, A., Chichilnisky, E., Paninski, L. (2017). "Multilayer recurrent network models of primate retinal ganlion cell responses."  International Conference on Learnin Representations.
+Batty, E. Merel, J., Brackbill, N., Heitman, A., Sher, A., Litke, A., Chichilnisky, E., Paninski, L. (2017). "Multilayer recurrent network models of primate retinal ganlion cell responses."  International Conference on Learnin Representations.
