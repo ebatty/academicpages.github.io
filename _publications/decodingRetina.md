@@ -10,4 +10,5 @@ Networks for Efficient Bayesian Decoding of Natural Images from Retinal Neurons.
 ---
 
 [Watch relevant talk here](https://www.youtube.com/watch?v=7OzdyDG6pbM) 
+
 [Code available here](https://github.com/nikparth/visual-neural-decode)
