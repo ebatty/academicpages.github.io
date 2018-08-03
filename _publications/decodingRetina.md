@@ -2,6 +2,8 @@
 title: "Neural Networks for Efficient Bayesian Decoding of Natural Images from Retinal Neurons"
 collection: publications
 permalink: /publication/decodingRetina
+date: 2017-12-15
+venue: 'NIPS'
 excerpt: 'Parthasarathy, N.∗, Batty, E.∗, Falcon, W., Rutten, T., Rajpal, M., Chichilnisky, E., Paninski, L. Neural
 Networks for Efficient Bayesian Decoding of Natural Images from Retinal Neurons. NIPS 2017. Accepted as Spotlight Presentation.'
 
