@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student in the Center for Theoretical Neuroscience at Columbia University.
+I'm a PhD student in the Center for Theoretical Neuroscience at Columbia University. I use machine learning approaches to develop better encoding and decoding models for neural responses.
