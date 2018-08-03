@@ -2,13 +2,12 @@
 title: "Neural Networks for Efficient Bayesian Decoding of Natural Images from Retinal Neurons"
 collection: publications
 permalink: /publication/decodingRetina
-date: 2017-12-15
-venue: 'NIPS'
+excerpt: 'Parthasarathy, N.∗, Batty, E.∗, Falcon, W., Rutten, T., Rajpal, M., Chichilnisky, E., Paninski, L. Neural
+Networks for Efficient Bayesian Decoding of Natural Images from Retinal Neurons. NIPS 2017. Accepted as Spotlight Presentation.'
+
 ---
 
-Abstract: 
-
-Decoding sensory stimuli from neural signals can be used to reveal how we sense
+Abstract: Decoding sensory stimuli from neural signals can be used to reveal how we sense
 our physical environment, and is valuable for the design of brain-machine interfaces.
 However, existing linear techniques for neural decoding may not fully reveal or exploit
 the fidelity of the neural signal. Here we develop a new approximate Bayesian
