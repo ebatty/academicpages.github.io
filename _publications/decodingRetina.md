@@ -5,6 +5,7 @@ permalink: /publication/decodingRetina
 date: 2017-12-15
 venue: 'NIPS'
 ---
+
 Abstract: 
 
 Decoding sensory stimuli from neural signals can be used to reveal how we sense
