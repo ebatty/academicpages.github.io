@@ -2,17 +2,27 @@
 title: "Multilayer recurrent network models of primate retinal ganglion cell responses"
 collection: publications
 permalink: /publication/encodingRetina
-excerpt: ''
+excerpt: 'Batty, E. Merel, J., Brackbill, N., Heitman, A., Sher, A., Litke, A., Chichilnisky, E., Paninski, L. "Multilayer recurrent network models of primate retinal ganlion cell responses."  International Conference on Learning Representations 2017.'
 date: 2017-04-01
 venue: 'ICLR'
-paperurl: 'https://openreview.net/pdf?id=HkEI22jeg'
-citation: 'Batty, E. Merel, J., Brackbill, N., Heitman, A., Sher, A., Litke, A., Chichilnisky, E., Paninski, L. (2017). "Multilayer recurrent network models of primate retinal ganlion cell responses."  International Conference on Learning Representations.'
+
 ---
 
-%Test 
+Abstract: Developing accurate predictive models of sensory neurons is vital to understanding
+sensory processing and brain computations. The current standard approach to
+modeling neurons is to start with simple models and to incrementally add interpretable
+features. An alternative approach is to start with a more complex model
+that captures responses accurately, and then probe the fitted model structure to understand
+the neural computations. Here, we show that a multitask recurrent neural
+network (RNN) framework provides the flexibility necessary to model complex
+computations of neurons that cannot be captured by previous methods. Specifically,
+multilayer recurrent neural networks that share features across neurons outperform
+generalized linear models (GLMs) in predicting the spiking responses of parasol
+ganglion cells in the primate retina to natural images. The networks achieve good
+predictive performance given surprisingly small amounts of experimental training
+data. Additionally, we present a novel GLM-RNN hybrid model with separate spatial
+and temporal processing components which provides insights into the aspects
+of retinal processing better captured by the recurrent neural networks.
 
-%This paper is about the number 1. The number 2 is left for future work.
+[Paper available here](https://openreview.net/pdf?id=HkEI22jeg)
 
-%[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Batty, E. Merel, J., Brackbill, N., Heitman, A., Sher, A., Litke, A., Chichilnisky, E., Paninski, L. (2017). "Multilayer recurrent network models of primate retinal ganlion cell responses."  International Conference on Learning Representations.
