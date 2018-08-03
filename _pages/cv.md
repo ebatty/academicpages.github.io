@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[Download CV here](http://ebatty.github.io/files/BattyCV.pdf)
+[Download CV here](http://ebatty.github.io/files/Batty_CV.pdf)
