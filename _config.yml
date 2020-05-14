@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Eleanor Batty"
 title_separator          : "-"
 name                     : &name "Ella Batty"
-description              : &description "PhD Student at Columbia"
+description              : &description "Computational Neuroscience Lecturer & Curriculum Developer "
 url                      : https://ebatty.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ebatty/ebatty.github.io"
@@ -80,9 +80,9 @@ analytics:
 author:
   name             : "Eleanor (Ella) Batty"
   avatar           : "profile.jpg"
-  bio              : "PhD Student interested in neuroscience and machine learning"
+  bio              : "Interested in neuroscience and machine learning"
   location         : "Boston, MA"
-  employer         : "Columbia University"
+  employer         : "Harvard University"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   uri              :
